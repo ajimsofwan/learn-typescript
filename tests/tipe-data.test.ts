@@ -1,4 +1,4 @@
-describe("data type", function () {
+describe("Data Type", function () {
   it("should must declare", function () {
     const name: string = "Aji Muhammad Sofwan";
     const balance: number = 1000000;
