@@ -1,6 +1,6 @@
-import { Employee, Manager } from "../src/employee";
-import { Person } from "../src/person";
-import { Seller } from "../src/seller";
+import { Employee, Manager } from "../../src/employee";
+import { Person } from "../../src/person";
+import { Seller } from "../../src/seller";
 
 describe("Interface", () => {
   it("should support in typescript", () => {

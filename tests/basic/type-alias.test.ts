@@ -1,4 +1,4 @@
-import { Category, Product } from "../src/type-alias";
+import { Category, Product } from "../../src/type-alias";
 
 describe("Type Alias", () => {
   it("should support in typescript", () => {
